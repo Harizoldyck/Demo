@@ -30,7 +30,7 @@ print("aksh")
 print("20cse02")
 
 print("20cse01 Adithya")
+print("20cse12")
 print("20cse02 akshaya")
 print("20cse49 vikram")
 print("20cse01 Adithya")
-
